@@ -10,7 +10,7 @@ export const reviews = [
   {
     name: "John Doe",
     review:
-      "Panto made my room feel more alive and minimalist. Highly recommend!",
+      "Adnan made my room feel more alive and minimalist. Highly recommend!",
     image: reviewer1,
     coverImg: testimonialBG1,
     rating: 4,
