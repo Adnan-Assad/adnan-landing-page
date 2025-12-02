@@ -10,7 +10,7 @@ const Testimonials = () => {
   return (
     <section className="w-12/12 container mx-auto py-6 px-8">
       <div className="text-center mb-12">
-        <h3 className="uppercase text-lg font-semibold text-orange-500">
+        <h3 className="uppercase text-lg font-semibold text-orange-500 mb-3">
           Testimonials
         </h3>
         <h2 className="capitalize text-4xl font-bold mb-4">
